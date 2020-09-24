@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from chapagain.items import ChapagainItem
-import shup
-shub.login
-API key: e526b7cd9e8d4244a1d31f4b3b9ed29a
-shub deploy 474604
 
 
 class Spider1Spider(scrapy.Spider):
